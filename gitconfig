@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicolaycamacho@gmail.com
+	name = Nicolay Camacho
